@@ -1,7 +1,7 @@
 # How-to-install-Nessus-on-Kali-Linux
 
 <h2>How-to-Install-Nessus-on-Kali-Linux</h2>
-<img src="Folder/How-to-install-Nessus-on-Kali-Linux-Windows.webp">
+<img src=" ">
 
 
 To find vulnerabilities in systems or networks using the Nessus vulnerability scanner, you first need to understand how to install it.
